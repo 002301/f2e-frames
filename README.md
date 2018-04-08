@@ -5,4 +5,9 @@ f2e常用框架
 
 ### zepto && jquery
 http://go.163.com/web/f2e_common/common/js/zepto.min.js
+http://go.163.com/web/f2e_common/common/js/jquery-2.1.4.min.js
+
+
+
+
 
