@@ -30,6 +30,13 @@ http://go.163.com/web/f2e_common/common/js/iscroll-probe.js
 http://go.163.com/web/f2e_common/common/js/iscroll.js
 
 
+### tween tweenlite
+http://go.163.com/web/f2e_common/common/js/Tween.js
+
+http://go.163.com/web/f2e_common/common/js/TweenLite.min.js
+
+
+
 ### html2canvas
 http://go.163.com/web/f2e_common/common/js/html2canvas.min.js
 
