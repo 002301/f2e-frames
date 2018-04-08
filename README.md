@@ -8,6 +8,9 @@ http://go.163.com/web/f2e_common/common/js/common.min.js
 
 http://go.163.com/web/f2e_common/common/js/common.js
 
+### loading
+http://go.163.com/web/f2e_common/common/js/loading.css
+
 
 ### zepto && jquery
 http://go.163.com/web/f2e_common/common/js/zepto.min.js
